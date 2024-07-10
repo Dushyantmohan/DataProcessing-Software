@@ -6,3 +6,4 @@ mkdir -p uploads processed static
 
 # Run the Flask application
 python app.py# DataProcessing-Software
+# DataProcessing-Software
